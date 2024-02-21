@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/background2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: rgb(41, 41, 41);
+}
+
+.MenuStyle{
+    background-color: rgba(80, 80, 80, 0.596);
+    width: auto;
+    height: 40px;  
+    text-align:center;
+    display:block;
+    word-spacing: 150px;
+}
+
+.MenuStyleLinks{
+    font-size: 35px;
+    text-decoration: none;
+    color:white;
+}
+
+.MenuStyleLinks:hover{
+    color: yellow;
+}

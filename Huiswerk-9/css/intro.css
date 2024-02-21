@@ -1,0 +1,70 @@
+body{
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: rgb(41, 41, 41);
+}
+
+.MenuStyle{
+    background-color: rgba(80, 80, 80, 0.596);
+    width: auto;
+    height: 40px;  
+    text-align:center;
+    display:block;
+    word-spacing: 150px;
+}
+
+.MenuStyleLinks{
+    font-size: 35px;
+    text-decoration: none;
+    color:white;
+}
+
+.MenuStyleLinks:hover{
+    color: yellow;
+}
+
+.WhoIsThisStyle{
+    text-align: center;
+    color:white;
+    width: 500px;
+    height:200px;
+    float: left;
+    background-color: rgba(141, 141, 141, 0.842);
+    border-radius: 10px;
+}
+
+.WhoIsThisStyle:hover{
+    background-color: black;
+}
+
+.WhatDidHeDoStyle{
+    text-align: center;
+    color:white;
+    width: 500px;
+    height:200px;    
+    float: right;
+    background-color: rgba(141, 141, 141, 0.842);
+    border-radius: 10px
+}
+
+.WhatDidHeDoStyle:hover{
+    background-color: black;
+}
+
+
+.TestStyle{
+    text-align: center;
+    color:white;
+    width: 500px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(141, 141, 141, 0.842);
+    border-radius: 10px
+}
+
+.TestStyle:hover{
+    background-color: black;
+}
