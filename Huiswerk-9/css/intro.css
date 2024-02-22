@@ -68,3 +68,17 @@ body{
 .TestStyle:hover{
     background-color: black;
 }
+
+.FooterNavStyle{
+    margin-top: -32vh;
+    text-align: center;
+}
+
+.VidPosOne{
+    margin-top: 5vh;
+}
+
+.VidPosTwo{
+    margin-top: -33vh;
+    margin-left: 140vh;
+}
