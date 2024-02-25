@@ -24,3 +24,18 @@ body{
 .MenuStyleLinks:hover{
     color: yellow;
 }
+
+.PictureStyle{
+    margin-top: 12vh;
+}
+
+figure{
+    width:25%;
+    float:left;
+    margin-left: 11vh;
+    margin-top: 10vh;
+}
+
+figure:hover{
+    transform: scale(1.2);
+}
